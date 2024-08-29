@@ -1,0 +1,28 @@
+{
+  "Users": [
+    {
+      "id": "1",
+      "Name": "Deep",
+      "LastName": "Nasit 07",
+      "Email": "deepnasit07@gmail.com"
+    },
+    {
+      "id": "2",
+      "Name": "Pratik",
+      "LastName": "Kotadiya",
+      "Email": "pk@gmail.com"
+    },
+    {
+      "id": "3",
+      "Name": "Akshay",
+      "LastName": "Sabhadiya",
+      "Email": "Akbhai@gmail.com"
+    },
+    {
+      "id": "4",
+      "Name": "Bhautik",
+      "LastName": "Nandola",
+      "Email": "nagri@gmail.com"
+    }
+  ]
+}
